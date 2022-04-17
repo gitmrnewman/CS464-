@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+    
+}
+
+.question {
+    font-weight: 600;
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+#submit {
+    border: 0px;
+    border-radius: 2px;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    
+}
